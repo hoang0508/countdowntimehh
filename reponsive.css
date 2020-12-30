@@ -1,0 +1,14 @@
+@media (max-width:768px){
+    body{
+        background-image: url(https://images.unsplash.com/photo-1515178286217-de1968298e3a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8aGFwcHklMjBuZXclMjB5ZWFyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    }
+
+    ul.Countdown {
+        display: flex;
+        font-size: 19px;
+        margin: 0 10px;
+        padding: 0;
+        color: white;
+        background: none;
+        border: 0;
+}
